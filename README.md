@@ -1,4 +1,4 @@
--  Hi, I’m Aziza Afrin
+-  Hey, this is Aziza Afrin
 -  I’m interested in Data Science.
 -  I’m currently learning data analytics and machinle learning.
 -  Reach me through LinkedIn: https://www.linkedin.com/in/aziza-afrin-a113b3144/
