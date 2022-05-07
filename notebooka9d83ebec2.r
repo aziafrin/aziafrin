@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "3999d9f2",
+   "id": "6dd98b41",
    "metadata": {
     "_execution_state": "idle",
     "_uuid": "051d70d956493feee0c6d64651c6a088724dca2a",
     "execution": {
-     "iopub.execute_input": "2022-05-07T06:19:04.437214Z",
-     "iopub.status.busy": "2022-05-07T06:19:04.435300Z",
-     "iopub.status.idle": "2022-05-07T06:19:05.659543Z",
-     "shell.execute_reply": "2022-05-07T06:19:05.657746Z"
+     "iopub.execute_input": "2022-05-07T06:22:08.767786Z",
+     "iopub.status.busy": "2022-05-07T06:22:08.765371Z",
+     "iopub.status.idle": "2022-05-07T06:22:10.229857Z",
+     "shell.execute_reply": "2022-05-07T06:22:10.227867Z"
     },
     "papermill": {
-     "duration": 1.231391,
-     "end_time": "2022-05-07T06:19:05.661815",
+     "duration": 1.472612,
+     "end_time": "2022-05-07T06:22:10.232320",
      "exception": false,
-     "start_time": "2022-05-07T06:19:04.430424",
+     "start_time": "2022-05-07T06:22:08.759708",
      "status": "completed"
     },
     "tags": []
@@ -78,19 +78,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "7eee3378",
+   "id": "ad08cb20",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-07T06:19:05.698579Z",
-     "iopub.status.busy": "2022-05-07T06:19:05.668218Z",
-     "iopub.status.idle": "2022-05-07T06:19:05.755294Z",
-     "shell.execute_reply": "2022-05-07T06:19:05.753659Z"
+     "iopub.execute_input": "2022-05-07T06:22:10.276703Z",
+     "iopub.status.busy": "2022-05-07T06:22:10.239587Z",
+     "iopub.status.idle": "2022-05-07T06:22:10.344705Z",
+     "shell.execute_reply": "2022-05-07T06:22:10.342772Z"
     },
     "papermill": {
-     "duration": 0.093063,
-     "end_time": "2022-05-07T06:19:05.757575",
+     "duration": 0.112,
+     "end_time": "2022-05-07T06:22:10.347374",
      "exception": false,
-     "start_time": "2022-05-07T06:19:05.664512",
+     "start_time": "2022-05-07T06:22:10.235374",
      "status": "completed"
     },
     "tags": []
@@ -225,7 +225,7 @@
     }
    ],
    "source": [
-    "###Kmeans clustering for minimumtemperature data\n",
+    "###Kmeans clustering algorithm for minimumtemperature data\n",
     "\n",
     "x1<-read.csv(\"../input/minimum-temperature-dataset/MIN TEM.csv\",header=T)\n",
     "head(x1)\n",
@@ -237,19 +237,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "7504612c",
+   "id": "5d6a2772",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-07T06:19:05.766633Z",
-     "iopub.status.busy": "2022-05-07T06:19:05.765244Z",
-     "iopub.status.idle": "2022-05-07T06:19:05.827769Z",
-     "shell.execute_reply": "2022-05-07T06:19:05.825596Z"
+     "iopub.execute_input": "2022-05-07T06:22:10.357676Z",
+     "iopub.status.busy": "2022-05-07T06:22:10.355965Z",
+     "iopub.status.idle": "2022-05-07T06:22:10.424091Z",
+     "shell.execute_reply": "2022-05-07T06:22:10.421630Z"
     },
     "papermill": {
-     "duration": 0.069058,
-     "end_time": "2022-05-07T06:19:05.829915",
+     "duration": 0.075575,
+     "end_time": "2022-05-07T06:22:10.426659",
      "exception": false,
-     "start_time": "2022-05-07T06:19:05.760857",
+     "start_time": "2022-05-07T06:22:10.351084",
      "status": "completed"
     },
     "tags": []
@@ -290,19 +290,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "e0297e5b",
+   "id": "c1b5053e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-07T06:19:05.839254Z",
-     "iopub.status.busy": "2022-05-07T06:19:05.837809Z",
-     "iopub.status.idle": "2022-05-07T06:19:06.098868Z",
-     "shell.execute_reply": "2022-05-07T06:19:06.097209Z"
+     "iopub.execute_input": "2022-05-07T06:22:10.436886Z",
+     "iopub.status.busy": "2022-05-07T06:22:10.435151Z",
+     "iopub.status.idle": "2022-05-07T06:22:10.734586Z",
+     "shell.execute_reply": "2022-05-07T06:22:10.732109Z"
     },
     "papermill": {
-     "duration": 0.268589,
-     "end_time": "2022-05-07T06:19:06.101782",
+     "duration": 0.306855,
+     "end_time": "2022-05-07T06:22:10.737165",
      "exception": false,
-     "start_time": "2022-05-07T06:19:05.833193",
+     "start_time": "2022-05-07T06:22:10.430310",
      "status": "completed"
     },
     "tags": []
@@ -335,19 +335,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "78b8a62a",
+   "id": "31ecf9a2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2022-05-07T06:19:06.113397Z",
-     "iopub.status.busy": "2022-05-07T06:19:06.111931Z",
-     "iopub.status.idle": "2022-05-07T06:19:06.147202Z",
-     "shell.execute_reply": "2022-05-07T06:19:06.145606Z"
+     "iopub.execute_input": "2022-05-07T06:22:10.749076Z",
+     "iopub.status.busy": "2022-05-07T06:22:10.747373Z",
+     "iopub.status.idle": "2022-05-07T06:22:10.789057Z",
+     "shell.execute_reply": "2022-05-07T06:22:10.787076Z"
     },
     "papermill": {
-     "duration": 0.043257,
-     "end_time": "2022-05-07T06:19:06.149465",
+     "duration": 0.04989,
+     "end_time": "2022-05-07T06:22:10.791579",
      "exception": false,
-     "start_time": "2022-05-07T06:19:06.106208",
+     "start_time": "2022-05-07T06:22:10.741689",
      "status": "completed"
     },
     "tags": []
@@ -475,13 +475,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "b592a4a2",
+   "id": "7f55ca67",
    "metadata": {
     "papermill": {
-     "duration": 0.004513,
-     "end_time": "2022-05-07T06:19:06.158703",
+     "duration": 0.004471,
+     "end_time": "2022-05-07T06:22:10.800920",
      "exception": false,
-     "start_time": "2022-05-07T06:19:06.154190",
+     "start_time": "2022-05-07T06:22:10.796449",
      "status": "completed"
     },
     "tags": []
@@ -506,14 +506,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 5.122775,
-   "end_time": "2022-05-07T06:19:06.283177",
+   "duration": 5.678962,
+   "end_time": "2022-05-07T06:22:10.927693",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2022-05-07T06:19:01.160402",
+   "start_time": "2022-05-07T06:22:05.248731",
    "version": "2.3.4"
   }
  },
