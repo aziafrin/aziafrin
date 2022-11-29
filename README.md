@@ -1,7 +1,7 @@
 -  Hey, this is Aziza Afrin
 -  I’m interested in Data Science.
--  I’m currently learning data analytics and machinle learning.
--  Reach me through LinkedIn: https://www.linkedin.com/in/aziza-afrin-a113b3144/
+-  I’m currently learning data analytics and machine learning.
+-  Reach me through LinkedIn: https://www.linkedin.com/in/aziza-afrin/
 -  My Twitter profile:https://twitter.com/aziza_afrin
 -  My Blog Profile: https://dev.to/aziafrin
 -  Kaggle profile link: https://www.kaggle.com/azizaafrin
