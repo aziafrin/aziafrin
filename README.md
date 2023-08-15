@@ -10,7 +10,7 @@
 My blog posts:
 - https://dev.to/aziafrin/powerful-pandas-part-1-j71
 - https://dev.to/aziafrin/new-to-numpy-3gcc
-
+- https://dev.to/aziafrin/all-about-matplotlib-6km
 
 <!---
 aziafrin/aziafrin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
